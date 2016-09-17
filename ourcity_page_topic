@@ -1,0 +1,6 @@
+<?php
+/**
+* Template Name: Topic page
+* Description: Template used to display content followed by related blogs on specific issues
+*/
+genesis();
